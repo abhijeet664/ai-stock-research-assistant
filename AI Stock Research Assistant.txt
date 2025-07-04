@@ -1,0 +1,7 @@
+# AI Stock Research Assistant
+
+This project uses Python and yFinance to analyze stock price trends.
+
+## Features
+- Downloads and plots 1-year price data
+- Easy to run in Google Colab or Jupyter
